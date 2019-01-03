@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\c\컨닝해라\컨닝해라\main.cpp(27): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\c\컨닝해라\컨닝해라\main.cpp(32): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\c\컨닝해라\컨닝해라\main.cpp(47): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\c\컨닝해라\컨닝해라\main.cpp(178): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\c\컨닝해라\컨닝해라\main.cpp(335): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컨닝해라.vcxproj -> D:\C\컨닝해라\Debug\컨닝해라.exe

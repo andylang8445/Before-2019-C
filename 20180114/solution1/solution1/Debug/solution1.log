@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\c\20180114\solution1\solution1\main.cpp(35): warning C4091: '': 변수를 선언하지 않으면 'int' 왼쪽은 무시됩니다.
+d:\c\20180114\solution1\solution1\main.cpp(35): error C2059: 구문 오류: '빈 선언'
+d:\c\20180114\solution1\solution1\main.cpp(35): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
+d:\c\20180114\solution1\solution1\main.cpp(36): error C2143: 구문 오류: ';'이(가) 'while' 앞에 없습니다.
+d:\c\20180114\solution1\solution1\main.cpp(36): error C2143: 구문 오류: ')'이(가) 'while' 앞에 없습니다.

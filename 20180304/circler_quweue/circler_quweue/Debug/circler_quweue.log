@@ -1,0 +1,3 @@
+﻿  queue.cpp
+d:\c\20180304\circler_quweue\circler_quweue\queue.cpp(3): warning C4616: #pragma warning: 경고 번호 '2996'은(는) 올바른 컴파일러 경고가 아닙니다.
+  circler_quweue.vcxproj -> D:\C\20180304\circler_quweue\Debug\circler_quweue.exe
